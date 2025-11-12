@@ -1,5 +1,5 @@
 # 源自
-- fork 自 hao 分词器，8.7.1 （https://github.com/tenlee2012/elasticsearch-analysis-hao）
+- fork 自 hao 分词器，8.7.1 (https://github.com/tenlee2012/elasticsearch-analysis-hao)
 
 # 修改记录
 ## 2025.8 解决高版本（ES 8.19）编译及权限问题
